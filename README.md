@@ -2,6 +2,7 @@ Hello! I'm Meena ☆ <br>
 *Full stack student developer*
 
 Tech Stack
+---
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/swift-F54411?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
