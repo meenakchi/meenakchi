@@ -36,7 +36,6 @@ Data Science & Databases
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftpowerbi/microsoftpowerbi-original.svg" alt="powerbi" width="40" height="40"/>
 </p>
 
 ---
